@@ -21,15 +21,13 @@ redirect_from:
 🎓教育经历
 ======
 
-- __上海大学__	计算机工程与科学学院	计算机科学与技术	硕士	2025.09-
+- __上海大学__    计算机工程与科学学院    计算机科学与技术    硕士    2025.09-
 
   学术性硕士，保研
 
-- __湖南科技大学__	计算机科学与工程学院	物联网工程	本科	2021.09-2025.06
+- __湖南科技大学__    计算机科学与工程学院    物联网工程    本科    2021.09-2025.06
 
-  GPA：3.62/4.0（Rank3）	Degree Course GPA：3.78/4.0（Rank3）
-
-  主修课程：数据结构、操作系统、计算机网络、计算机组成原理、面向对象程序设计、数据库原理、软件工程、嵌入式系统、射频识别与传感器技术、传感器网络等。
+  GPA：3.62/4.0（Rank3）    Degree Course GPA：3.78/4.0（Rank3）
 
 🏅竞赛奖项
 ======
@@ -58,10 +56,12 @@ redirect_from:
 
 # 📦项目
 
-__基于多特征融合和集成学习的涉诈 APP 智能识别分析系统__	2024.06-2024.08
+- __基于多特征融合和集成学习的涉诈 APP 智能识别分析系统__	2024.06-2024.08
 
-- **职责：**项目负责人、后端开发
-- **简介：**我们基于 Django 框架和 [vue-element-ui](https://github.com/PanJiaChen/vue-element-admin)，开发了一套能将 APK 从采集到分析至可视化分析和研判信息的全过程自动化的 web 系统。该系统不仅能将 APK 的基本信息（如 APP 名称、包名、版本、大小）、权限列表、四大组件、签名证书、通联地址等信息提取并可视化呈现，还能基于集成学习模型研判 APK 的类别（涉黄、涉赌、涉诈、黑灰产、正常）。
-- **地址：**https://github.com/6bananas/AppAnalysisSystem
-- __指导老师：__[蒋黎明博士](https://computer.hnust.edu.cn/dsdw/bcffdc62a24f44dcabeaaaf75bcec05f.htm)
+  **职责：**项目负责人、后端开发
 
+  **简介：**我们基于 Django 框架和 [vue-element-ui](https://github.com/PanJiaChen/vue-element-admin)，开发了一套能将 APK 从采集到分析至可视化分析和研判信息的全过程自动化的 web 系统。该系统不仅能将 APK 的基本信息（如 APP 名称、包名、版本、大小）、权限列表、四大组件、签名证书、通联地址等信息提取并可视化呈现，还能基于集成学习模型研判 APK 的类别（涉黄、涉赌、涉诈、黑灰产、正常）。
+
+  **地址：**https://github.com/6bananas/AppAnalysisSystem
+
+  __指导老师：__[蒋黎明博士](https://computer.hnust.edu.cn/dsdw/bcffdc62a24f44dcabeaaaf75bcec05f.htm)
