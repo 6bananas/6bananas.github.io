@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-C.Chen，男，[上海大学](https://www.shu.edu.cn/)研 0，[湖南科技大学](https://www.hnust.edu.cn/)大四在读。
+男，[上海大学](https://www.shu.edu.cn/)研 0，[湖南科技大学](https://www.hnust.edu.cn/)大四在读。
 
 目前正在学习集成学习和 Java 后端开发，希望能够在 2025 年春招找到一份实习。
 
@@ -60,7 +60,8 @@ C.Chen，男，[上海大学](https://www.shu.edu.cn/)研 0，[湖南科技大�
 
 __基于多特征融合和集成学习的涉诈 APP 智能识别分析系统__	2024.06-2024.08
 
-- __职责：__项目负责人、后端开发
-- __简介：__我们基于 Django 框架和 [vue-element-ui](https://github.com/PanJiaChen/vue-element-admin)，开发了一套能将 APK 从采集到分析至可视化分析和研判信息的全过程自动化的 web 系统。该系统不仅能将 APK 的基本信息（如 APP 名称、包名、版本、大小）、权限列表、四大组件、签名证书、通联地址等信息提取并可视化呈现，还能基于集成学习模型研判 APK 的类别（涉黄、涉赌、涉诈、黑灰产、正常）。
-- __地址：__https://github.com/6bananas/AppAnalysisSystem
+- **职责：**项目负责人、后端开发
+- **简介：**我们基于 Django 框架和 [vue-element-ui](https://github.com/PanJiaChen/vue-element-admin)，开发了一套能将 APK 从采集到分析至可视化分析和研判信息的全过程自动化的 web 系统。该系统不仅能将 APK 的基本信息（如 APP 名称、包名、版本、大小）、权限列表、四大组件、签名证书、通联地址等信息提取并可视化呈现，还能基于集成学习模型研判 APK 的类别（涉黄、涉赌、涉诈、黑灰产、正常）。
+- **地址：**https://github.com/6bananas/AppAnalysisSystem
 - __指导老师：__[蒋黎明博士](https://computer.hnust.edu.cn/dsdw/bcffdc62a24f44dcabeaaaf75bcec05f.htm)
+
