@@ -60,10 +60,10 @@ redirect_from:
 
 - __基于多特征融合和集成学习的涉诈 APP 智能识别分析系统__（2024.06-2024.08）
 
-  **职责：**项目负责人、后端开发
+  **职责**：项目负责人、后端开发
 
-  **简介：**我们基于 Django 框架和 [vue-element-ui](https://github.com/PanJiaChen/vue-element-admin)，开发了一套能将 APK 从采集到分析至可视化分析和研判信息的全过程自动化的 web 系统。该系统不仅能将 APK 的基本信息（如 APP 名称、包名、版本、大小）、权限列表、四大组件、签名证书、通联地址等信息提取并可视化呈现，还能基于集成学习模型研判 APK 的类别（涉黄、涉赌、涉诈、黑灰产、正常）。
+  **简介**：我们基于 Django 框架和 [vue-element-ui](https://github.com/PanJiaChen/vue-element-admin)，开发了一套能将 APK 从采集到分析至可视化分析和研判信息的全过程自动化的 web 系统。该系统不仅能将 APK 的基本信息（如 APP 名称、包名、版本、大小）、权限列表、四大组件、签名证书、通联地址等信息提取并可视化呈现，还能基于集成学习模型研判 APK 的类别（涉黄、涉赌、涉诈、黑灰产、正常）。
 
-  **地址：**[https://github.com/6bananas/AppAnalysisSystem](https://github.com/6bananas/AppAnalysisSystem)
+  **地址**：[https://github.com/6bananas/AppAnalysisSystem](https://github.com/6bananas/AppAnalysisSystem)
 
-  __指导老师：__[蒋黎明博士](https://computer.hnust.edu.cn/dsdw/bcffdc62a24f44dcabeaaaf75bcec05f.htm)
+  **指导老师**：[蒋黎明博士](https://computer.hnust.edu.cn/dsdw/bcffdc62a24f44dcabeaaaf75bcec05f.htm)
