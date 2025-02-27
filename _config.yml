@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "首页"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "C.Chen"
 description              : &description "Student@HNUST"
