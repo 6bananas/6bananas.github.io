@@ -14,8 +14,6 @@ redirect_from:
 
 欢迎来到我对个人主页！
 
-👉[My Learning](https://github.com/6bananas/Learning).
-
 # News🔥
 
 - 2024.12 获“校优秀学生”荣誉称号。🎉🎉🎉
