@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "6banabas"
+title: "6bananas"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 男，上海大学研 0，Java 开发者。
-
-欢迎来到我对个人主页！
 
 # 教育经历🎓
 
