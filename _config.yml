@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "欢迎光临！"
 title_separator          : "-"
-name                     : &name "C.Chen"
-description              : &description "Student@HNUST"
+name                     : &name "6bananas"
+description              : &description "Student@SHU"
 url                      : https://6bananas.github.io # the base hostname & protocol for your site e.g. "https://6bananas.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "6bananas/6bananas.github.io"
@@ -22,11 +22,11 @@ repository               : "6bananas/6bananas.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "C.Chen"
+  name             : "6bananas"
   pronouns         : # example: "she/her"  
-  bio              : "Student@HNUST"
-  location         : "Xiangtan"
-  employer         : #"湖南科技大学"
+  bio              : "Student@SHU"
+  location         : "Shanghai"
+  employer         : #"上海大学"
   uri              : # URL
   email            : "maas06533@gmail.com" 
 
