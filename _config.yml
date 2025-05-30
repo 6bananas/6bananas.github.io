@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "欢迎光临！"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "6bananas"
 description              : &description "Student@SHU"
